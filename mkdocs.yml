@@ -1,0 +1,25 @@
+site_name: "Natalia's Personal Website"
+site_url: http://contranata.github.io/personal_website/
+repo_name: personal_site
+repo_url: https://github.com/Contranata/personal_site/
+edit_uri: ""
+copyright: 
+# change directory names here
+docs_dir: doc
+site_dir: site
+theme:
+  name: material
+  # pretty colors! see https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons/material
+  palette:
+    primary: 'teal'
+    accent: 'indigo'
+  # fun logos! see https://material.io/icons/
+  icon:
+    logo: material/account-cowboy-hat.svg
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+# optionally give a title for each page or section
+nav:
+  - 'Home': 'Homepage.md'
+  - 'Resume': 'resume_july2021.md'
