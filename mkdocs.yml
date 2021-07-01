@@ -14,8 +14,8 @@ theme:
     primary: 'teal'
     accent: 'indigo'
   # fun logos! see https://material.io/icons/
-  icon:
-    logo: material/account-cowboy-hat.svg
+ # icon:
+    #logo: material/account-cowboy-hat.svg
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
