@@ -1,10 +1,10 @@
-site_name: dib-lab metagenomics rotation project
-site_url: http://dib-lab.github.io/dib_rotation/
-repo_name: dib_rotation
-repo_url: https://github.com/dib-lab/dib_rotation
+site_name: Natalia Personal Website
+site_url: https://contranata.github.io/personal_site/
+repo_name: personal_site
+repo_url: https://github.com/contranata/personal_site/
 edit_uri: ""
 
-copyright: 'Copyright &copy; 2020 <a href="http://ivory.idyll.org/lab/">Lab for Data Intensive Biology</a> at UC Davis'
+# copyright: 'Copyright &copy; 2020 <a href="http://ivory.idyll.org/lab/">Lab for Data Intensive Biology</a> at UC Davis'
 
 # change directory names here
 docs_dir: doc
@@ -15,7 +15,7 @@ theme:
 
   # pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
   palette:
-    primary: 'deep orange'
+    primary: 'teal'
     accent: 'black'
   
   # fun logos! see https://material.io/icons/
