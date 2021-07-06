@@ -21,5 +21,5 @@ theme:
     code: 'Roboto Mono'
 # optionally give a title for each page or section
 nav:
-  - 'Home': 'homepage.md'
+  - Home: 'index.md'
   - 'Resume': 'resume_july2021.md'
