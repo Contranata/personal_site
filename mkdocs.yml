@@ -3,7 +3,7 @@ site_url: https://contranata.github.io/personal_site/
 repo_name: personal_site
 repo_url: https://github.com/Contranata/personal_site/
 edit_uri: ""
-copyright: 
+#copyright: 
 # change directory names here
 docs_dir: doc
 site_dir: site
