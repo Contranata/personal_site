@@ -14,8 +14,8 @@ theme:
     primary: 'purple'
     accent: 'black'
   # fun logos! see https://material.io/icons/
-  icon:
-    logo: material/account-cowboy-hat
+  logo:
+    icon: material/account-cowboy-hat
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
