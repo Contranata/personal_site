@@ -17,6 +17,23 @@ United States                     (619)862-7666
 2014-2017
 :   **Southwest High School**; San Diego, CA
 
+## Skills
++ Genomics data analysis
++ Protein purification and analysis
++ FPLC, HPLC, and affinity chromatography
++ IR, NMR, GCMS, UV-VIS
++ Assay development
++ Experimental design and methods
++ Data analysis and presentation
++ In-vitro enzyme function assay development
++ PyMOL, EnzymeX, Prism, and other protein modeling software
++ Experience in Python 
++ Interpersonal skills and the ability to work in large inter-departmental group
++ Basic lab management: pipette, weigh, sterilize, filtrate, titrate, wash/clean glassware, prepare media,  practice sterile techniques
+
+#### Languages
++ Biliterate in English and Spanish
++ Python
 
 
 Experience
@@ -168,13 +185,5 @@ Min. GPA 3.5 enrolled in min 12 graded units
 
 
 
-Skills
-----------------------------------------
 
-#### Languages 
-+ Biliterate in English and Spanish 
-
-+  Python
-
-#### Soft skills
 
