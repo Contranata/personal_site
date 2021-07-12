@@ -11,7 +11,7 @@ theme:
   name: material
   # pretty colors! see https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons/material
   palette:
-    primary: 'purple'
+    primary: 'teal'
     accent: 'black'
   # fun logos! see https://material.io/icons/
   logo:
