@@ -1,10 +1,11 @@
 # Natalia Contreras
 
-Recent graduate seeking a biology-related job that provides the opportunty to expand skills and academic knowledge in a laboratory work environment.
+Recent graduate seeking a biology-related job that provides the opportunity to expand skills and academic knowledge in a laboratory work environment.
 -------------------     ----------------------------
-3564 Janse Way, San Diego, CA 92173                                           N1contre@ucsd.edu
+3564 Janse Way, San Diego, CA 92173  
+N1contre@ucsd.edu          
 @[contranata](https://twitter.com/contranata)
-United States                     (619)862-7666
+(619)862-7666
 -------------------     ----------------------------
 
 ## Education
@@ -17,23 +18,6 @@ United States                     (619)862-7666
 2014-2017
 :   **Southwest High School**; San Diego, CA
 
-## Skills
-+ Genomics data analysis
-+ Protein purification and analysis
-+ FPLC, HPLC, and affinity chromatography
-+ IR, NMR, GCMS, UV-VIS
-+ Assay development
-+ Experimental design and methods
-+ Data analysis and presentation
-+ In-vitro enzyme function assay development
-+ PyMOL, EnzymeX, Prism, and other protein modeling software
-+ Experience in Python 
-+ Interpersonal skills and the ability to work in large inter-departmental group
-+ Basic lab management: pipette, weigh, sterilize, filtrate, titrate, wash/clean glassware, prepare media,  practice sterile techniques
-
-#### Languages
-+ Biliterate in English and Spanish
-+ Python
 
 
 Experience
@@ -42,40 +26,52 @@ Experience
 **SSPPS Volunteer:**
 Skaggs School of Pharmacy and Pharmaceutical Sciences 
 
-03/2021 - Present          La Jolla, CA
+03/2021 - 09/2021           
+La Jolla, CA
+
 BUMMP/RMTL Student Program designed to train in basic laboratory methology
 
 ##### Tasks
-+ Training in but not limited to:
-    + labortory safety
-    + molecular biology
-    + solutions 
-    + molarity
-    + pipetting
++ prepared stock solutions, enzyme assay, and assay solutions
++ made buffer solutions and tested pH
++ used spectrophotometry for the assay solutions
++ purified and analyzed glycolytic enzyme Phosphofructokinase-1 from frozen rabbit muscle tissue
++ prepared and analyzed Bradford protein assay
++ made gel electrophoresis, polyacrylamide gels, silver staining
++ titrations
 
 
 
 ##### Contact: [Research Methology Training Lab Fellowship](https://oasis.ucsd.edu/enrichment/rmtl/index.html)
 ```
-    email: oasisrmtl@ucsd.edu
+Supervisor - Ami Abbott
+            Laboratory Assistant
+            UNIVERSITY OF CALIFORNIA, SAN DIEGO
+            Skaggs School of Pharmacy Fricovsky/RMTL/BUMMP/OASIS/PATHS/HCOP/HCOE/BRIDGES Laboratory 9500 Gilman Drive, MC 0657
+            La Jolla, CA 92093-0657
+            (858) 534-0444
+            aabbott@ucsd.edu
  ``` 
 
 **Intern at National Summer Undergraduate Research Program:**
 
-06/2021 - Present
+06/2021 - 08/2021
+remote
 
 Remote summer research program  designed to expose students to microbiology and computational immunology while providing a space to develop and present research project under the guideness of a mentor.
 
 ##### Tasks
-+ develop research project 
-    + Bioinformatics
++ emphasis in microbiology 
++ taught professional development and established a national network with those in the program
++ developed and presented research project using bioinformatics
+    + Computational analysis of human microbiota during parasite infection 
+    + worked with UC davis's Lab of Intensive Data developed software **khmer** and **sourmash**
 
 ##### Contact: [NSURP](https://nsurp.org/)   
 email: NSURPorg@gmail.com
 
 
 ```
-
 Mentor - Hannah Eve Houts
          Graduate Student in the 
          Lab for Data Intensive Biology
@@ -87,9 +83,10 @@ Mentor - Hannah Eve Houts
 **Mentor**
 Big Brother Big Sister
 
-05/2017 - 07/2021           San Diego, CA
+05/2017 - 07/2021         
+San Diego, CA
 
-One-to-one mentorship between High school and elementary students. 
+One-to-one mentorship between High school  and elementary students. 
 
 ##### Tasks
 + Mentored an elementary student from 5th to 6th grade
@@ -104,8 +101,8 @@ email: info@sdbigs.org
 
 **Volunteer**
 Ciudad De Los Niños 
-
-05/2015 - 05/2017          Tijuana, Baja California Mexico
+05/2015 - 05/2017         
+Tijuana, Baja California Mexico
 
 Non-profit organization that takes care of neglected children
 
@@ -128,14 +125,15 @@ Extracurricular
 
 **Mentee**
 BUMMP Mentorship 
-07/2020-07/2021          San Diego, CA
+07/2020-07/2021        
+La Jolla, CA
 
 Undergrad biology mentorship program at the University of California San Diego whose goal is to provide resources for mentees to use as tools for future work field.
 
 ##### Tasks
-+ Met with mentor twice a quater
++ Met with mentor twice a quarter
     + Discussed future career plans
-    + searched for reseach opportunities 
+    + searched for research opportunities 
     + got advised about the work field and graduate school
 
 ##### Contact: [BUMMP](https://www.bummpucsd.org/about)
@@ -148,10 +146,10 @@ Mentor - Helen McRae, PhD
 
 **Mentee**
 Scripps Hospital Chula Vista Well-Being 
+05/2017 - 06/2017
+San Diego, CA
 
 Shadowing program designed to expose high school students in medical jobs by having a one-to-one experience with a mentor. 
-
-05/2017 - 06/2017
 
 ##### Tasks
 + Shadowed phlebotomist at the Scripp's laboratory
@@ -164,9 +162,7 @@ Shadowing program designed to expose high school students in medical jobs by hav
 Allyssa M Erasquin
 Scripps Well Being Center - BSW intern
 237 Chuch Avenue Chula Vista, CA 91910
-
-email:
-Erasquin.Alyssa@scrippshealth.org
+email:Erasquin.Alyssa@scrippshealth.org
 ```
 
 
@@ -181,6 +177,36 @@ Min. GPA 3.5 enrolled in min 12 graded units
 
 ###### Provost Honors (03/2020)
 Min. GPA 3.5 enrolled in min 12 graded units
+
+
+
+
+Skills
+----------------------------------------
+
+#### Languages 
++ Biliterate in English and Spanish 
+###### Computer languages
++  Python
+
+#### Skills
++ Fischer esterification
++ solvent extraction
++ gravimetric analysis 
++ spectrophotometry
++ crystallization/recrystalization
++ volumtric analysis
++ chemical synthesis
++ FPLC, HPLC, and chromatography
++ TLC analysis 
++ simple & fractional distillation
++ IR spectroscopy
++ Protein purification and analysis
++ IR, NMR, GCMS, UV-VIS
++ genomic data analysis
++ Data analysis and presentation
++ PyMOL protein modeling software
++ badic lab management: pipette, weigh, sterilize, filterate, tritrate, wash/clean glassware, prepare media, practice sterile technique 
 
 
 
